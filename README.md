@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Interdice
-- 👀 I’m interested in games, coding and emulators
-- 🌱 I’m currently learning how to make emulators
-- 💞️ I’m looking to collaborate on open source projects that interest me
+- 👀 I’m interested in games, coding and emulators, but am still a beginner
+- 🌱 I’m currently learning how to make emulators 
+- 💞️ I’m looking to collaborate on open source projects that interest me 
 - 📫 How to reach me idk
 
 <!---
